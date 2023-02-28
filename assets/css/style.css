@@ -1,3 +1,7 @@
-html > body > .container-lg {
-  max-width: inherit !important;
+html > body {
+  font-size: large;
 }
+
+/* html > body > .container-lg {
+  max-width: inherit !important;
+} */
