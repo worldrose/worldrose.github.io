@@ -1,6 +1,6 @@
 # The Rose of the World
 
-> This is a full translation of the entire book. There is an alternative translation of chapters 1-6 (about half of the book) that you can find here: http://rodon.org/andreev/trotw.htm
+This is a full translation of the entire book. There is an alternative translation of chapters 1-6 (about half of the book) that you can find here: http://rodon.org/andreev/trotw.htm
 
 Contents:
 

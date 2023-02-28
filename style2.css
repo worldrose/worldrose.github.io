@@ -1,0 +1,3 @@
+html > body > .container-lg {
+  max-width: inherit !important;
+}
