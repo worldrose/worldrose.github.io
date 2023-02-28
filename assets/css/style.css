@@ -1,7 +1,8 @@
 html > body {
-  font-size: large;
+  font-family: "Trebuchet MS", Geneva, sans-serif;
+  line-height: 1.5;
 }
 
-/* html > body > .container-lg {
-  max-width: inherit !important;
-} */
+html > body > .container-lg > h1:first-child > a {
+  display: none;
+}
