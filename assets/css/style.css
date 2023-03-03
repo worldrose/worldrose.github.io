@@ -8,3 +8,7 @@ html > body {
 html > body > .container-lg > h1:first-child > a {
   display: none;
 }
+
+blockquote {
+  font-style: italic;
+}

@@ -3805,34 +3805,34 @@ You read it - and shudder. What is this? When and about whom was it written? - W
 
 But the river continued to speak, and in this speech there was something tempting, almost ominous."
 
-"... At home, within a minute, he had already made a decision. Two equally great achievements lay before him: to destroy the city and to eliminate the river. The means for achieving the first achievement had already been considered in advance; the means for achieving the second were unclear and disjointed to him. But since there was no force in nature that could convince the scoundrel of ignorance of anything, in this case, ignorance was not only equivalent to knowledge, but was even stronger in a certain sense. He was neither a technologist nor an engineer; but he was a resolute scoundrel, and this was also a kind of power, possessing which one could conquer the world."
+> "... At home, within a minute, he had already made a decision. Two equally great achievements lay before him: to destroy the city and to eliminate the river. The means for achieving the first achievement had already been considered in advance; the means for achieving the second were unclear and disjointed to him. But since there was no force in nature that could convince the scoundrel of ignorance of anything, in this case, ignorance was not only equivalent to knowledge, but was even stronger in a certain sense. He was neither a technologist nor an engineer; but he was a resolute scoundrel, and this was also a kind of power, possessing which one could conquer the world."
 
-"The city cowered; there was a stuffiness and a mustiness in the air. He had not yet given any orders, expressed any thoughts, or told anyone his plans, and yet everyone understood that the end had come."
+> "The city cowered; there was a stuffiness and a mustiness in the air. He had not yet given any orders, expressed any thoughts, or told anyone his plans, and yet everyone understood that the end had come."
 
 ------
 (1): Shchedrin hardly suspected that this desire to fit everything into a straight line might reflect a memory of the atmosphere in one of the other layers, namely, on the one-dimensional Day of Shadanakar.
 
 The End began, as everyone who has read Shchedrin knows, with the destruction of the old city down to its foundations and the clearing of all the resulting garbage, including manure, to the river.
 
-"And now the long-awaited moment had come. Summoning the hutkeepers, he led them to the riverbank, measured the distance with his steps, pointed with his eyes to the current, and said in a clear voice:
+> "And now the long-awaited moment had come. Summoning the hutkeepers, he led them to the riverbank, measured the distance with his steps, pointed with his eyes to the current, and said in a clear voice:
 
-- From here to here!
+> - From here to here!
 
-As crowded as the townspeople were, they too felt the significance. Until now, only the works of human hands had been destroyed, but now it was time for the work of the eternal, the non-handmade...
+> As crowded as the townspeople were, they too felt the significance. Until now, only the works of human hands had been destroyed, but now it was time for the work of the eternal, the non-handmade...
 
-- Let it fly! - he commanded the hutkeepers, looking up at the swaying crowd.
+> - Let it fly! - he commanded the hutkeepers, looking up at the swaying crowd.
 
-The struggle with nature had begun."
+> The struggle with nature had begun."
 
 The struggle with nature! It is commonly believed that in the character of Ugryum-Burcheyev, Shchedrin reproduced - of course, in a satirical light - the character of Arakcheev. This is evidenced by certain external similarities between Shchedrin's hero and the repugnant timekeeper, as well as an obvious parody of the military settlements that made up the administrative and urban planning system dreamed up by Ugryum-Burcheyev. It is also clear that to some extent, this character reflects the real historical character of another despot who left an even more pronounced imprint on Russia and was chronologically closer to Shchedrin: the character of Nicholas I. But... the struggle with nature? Neither Arakcheev nor Nicholas destroyed cities to the ground in order to build new ones in their place, ranked by their foolish hierarchies; neither of them drove the entire population to a senseless and blind struggle with nature.
 
 Finally, the mountains of garbage had dammed up the river.
 
-    "A crack, a whistle, and some enormous bubbling sounds were heard... Then everything fell silent; the river stopped for a moment and quietly began to overflow onto the meadow side. By evening, the flood had grown so great that its boundaries were invisible, and the water kept rising and rising. A distant rumble could be heard; it seemed as if entire villages were collapsing and cries, moans, and curses were heard from there. Stacks of hay, logs, rafts, fragments of huts floated on the water and, reaching the dam, collected in one place."
+> "A crack, a whistle, and some enormous bubbling sounds were heard... Then everything fell silent; the river stopped for a moment and quietly began to overflow onto the meadow side. By evening, the flood had grown so great that its boundaries were invisible, and the water kept rising and rising. A distant rumble could be heard; it seemed as if entire villages were collapsing and cries, moans, and curses were heard from there. Stacks of hay, logs, rafts, fragments of huts floated on the water and, reaching the dam, collected in one place."
 
 It is known that Ugryum-Burcheyev's plans were ruined the following morning. During the night, the river had eroded and carried away the dam, and it was flowing again within its banks. Stunned, the transmuter decided to leave the river and build the dreamed city of Nepreklosk in a new place, on a flat as a table, plain. There, at last, he was overwhelmed, and he fell asleep with an axe in his hand.
 
-    "Exhausted, insulted, and destroyed, the fools sighed freely for the first time after a long break. They looked at each other - and suddenly felt ashamed. They did not understand what had happened around them, but they felt that the air was filled with foul language and it was impossible to breathe further in this air. Did they have a history, were there moments in this history when they had the opportunity to assert their independence? - they remembered nothing. They only remembered that they had Urus-Kugush-Kildibaevs, Negodyaevs, Borodavkins, and, to top it all off, that horrible, infamous bastard! And all this stifled, gnawed, tore with its teeth - in the name of what? Their chests were engulfed in blood, their faces spasmodically twisted with anger when they remembered the infamous idiot who came with an axe in his hand from an unknown place and with unfathomable impudence pronounced a death sentence on the past, present, and future..."
+> "Exhausted, insulted, and destroyed, the fools sighed freely for the first time after a long break. They looked at each other - and suddenly felt ashamed. They did not understand what had happened around them, but they felt that the air was filled with foul language and it was impossible to breathe further in this air. Did they have a history, were there moments in this history when they had the opportunity to assert their independence? - they remembered nothing. They only remembered that they had Urus-Kugush-Kildibaevs, Negodyaevs, Borodavkins, and, to top it all off, that horrible, infamous bastard! And all this stifled, gnawed, tore with its teeth - in the name of what? Their chests were engulfed in blood, their faces spasmodically twisted with anger when they remembered the infamous idiot who came with an axe in his hand from an unknown place and with unfathomable impudence pronounced a death sentence on the past, present, and future..."
 
 Ugryum-Burcheyev woke up and returned to the construction of Nepreklosk, but the atmosphere had subtly changed. "He began to suspect something. He was struck by the silence during the day and the rustling at night. He saw how, with the onset of dusk, some shadows wandered around the city and disappeared somewhere, and how with the dawn of day, the same shadows appeared again in the city and scattered around the houses. This phenomenon was repeated for several days in a row, and each time he was tempted to rush out of the house to personally investigate the cause of the nightly commotion, but superstitious fear held him back."
 
