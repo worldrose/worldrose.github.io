@@ -1,16 +1,16 @@
-# Rose of the World
+# The Rose of the World
 
 Contents:
 
 - [Book I.](#book-1) The Rose of the World and Its Place in History
 - [Book II.](#book-2) On metahistorical and transphysical methods of cognition
-- [Book III.](#book-3) The Structure of Shadanakar. The Worlds of the Ascending Series.
+- [Book III.](#book-3) Structure of Shadanakar. The Worlds of the Ascending Series.
 - [Book IV.](#book-4) Structure of Shadanakar. Infra-physics.
 - [Book V.](#book-5) Structure of Shadanakar. Elementals
 - [Book VI.](#book-6) The Higher Worlds of Shadanakar
 - [Book VII.](#book-7) On the Meta-History of Ancient Rus'
-- [Book VIII.](#book-8) On the meta-history of the Kingdom of Moscow
-- [Book IX.](#book-9) To the Metahistory of the Petersburg Empire
+- [Book VIII.](#book-8) On the Meta-history of the Kingdom of Moscow
+- [Book IX.](#book-9) On the Metahistory of the Petersburg Empire
 - [Book X.](#book-10) On the Meta-History of Russian Culture
 - [Book XI.](#book-11) On the Meta-History of the Last Century
 
