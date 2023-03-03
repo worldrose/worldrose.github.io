@@ -2,6 +2,7 @@ html > body {
   font-family: "Trebuchet MS", Geneva, sans-serif;
   line-height: 1.5;
   margin: 0 1em;
+  font-size: large;
 }
 
 html > body > .container-lg > h1:first-child > a {
