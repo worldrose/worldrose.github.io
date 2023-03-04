@@ -2,63 +2,20 @@
 
 > CC0 1.0 Universal (CC0 1.0) Public Domain Dedication
 
-- [Book I.](#book-1) The Rose of the World and Its Place in History
-  - Chapter 1. The Rose of the World and Its Immediate Tasks
-  - Chapter 2. Attitude towards culture
-  - Chapter 3. Attitude towards religions
-- [Book II.](#book-2) On metahistorical and transphysical methods of cognition
-  - Chapter 1. Some features of the metahistorical method
-  - Chapter 2. A little about the transphysical method.
-  - Chapter 3. Original Concept
-- [Book III.](#book-3) Structure of Shadanakar: The Worlds of the Ascending Series
-  - Chapter 1. Sakuala of Enlightenment.
-  - Chapter 2. Zatomises
-  - Chapter 3. The Middle Layers of Shadanakar
-- [Book IV.](#book-4) Structure of Shadanakar: Infra-physics
-  - Chapter 1. Foundation
-  - Chapter 2. Realms of Retribution
-  - Chapter 3. Shrastres and witzraoras
-- [Book V.](#book-5) Structure of Shadanakar: Elementals
-  - Chapter 1. Demonic Elementals
-  - Chapter 2. The Bright Elementals
-  - Chapter 3. Attitude towards the animal kingdom
-- [Book VI.](#book-6) The Higher Worlds of Shadanakar
-  - Chapter 1. Before the World of Salvaterra
-  - Chapter 2. The Logos of Shadanakar
-  - Chapter 3. Femininity
-- [Book VII.](#book-7) Meta-History of Ancient Rus'
-  - Chapter 1. Kiev Rus' as a Meta-Historical Phenomenon
-  - Chapter 2. Christian Myth and Proto-russianism
-  - Chapter 3. The Era of the First Witzraor
-- [Book VIII.](#book-8) Meta-History of The Kingdom of Moscow
-  - Chapter 1. Change of Witzraors
-  - Chapter 2. The Egregore of Orthodoxy and Infra-physical Fear
-  - Chapter 3. Filling the Space between Cultures
-  - Chapter 4. Lineager Peter and the Demonic Distortion of His Mission
-- [Book IX.](#book-9) Meta-History of The Petersburg Empire
-  - Chapter 1. The Second Witzraor and Outer Space
-  - Chapter 2. The Second Witzraor and the Inner Space
-  - Chapter 3. Lifting the Sanction
-  - Chapter 4. Deed
-- [Book X.](#book-10) Meta-History of Russian Culture
-  - Chapter 1. The Gift of Heraldry
-  - Chapter 2. Missions and Destinies
-  - Chapter 2. Missions and Destinies
-  - Chapter 3. Missions and Destinies (Continued)
-  - Chapter 4. Missions and Destinies (Conclusion)
-  - Chapter 5. The Fall of the Herald
-- [Book XI.](#book-11) Meta-History of The 20th Century
-  - Chapter 1. The Ascension of the Third Zhrugr
-  - Chapter 2. The Struggle with Spirituality
-  - Chapter 3. The Dark Shepherd
-  - Chapter 4. To the Metahistory of Our Days
-- [Book XII.](#book-12) Possibilities
-  - Chapter 1. Education of a refined person
-  - Chapter 2. External Events
-  - Chapter 3. Sacrament
-  - Chapter 4. The Prince of Darkness
-  - Chapter 5. The Change of Eons
-- [Brief dictionary of names, terms, and titles](#dict)
+[Book I.](#book-1) The Rose of the World and Its Place in History
+[Book II.](#book-2) On metahistorical and transphysical methods of cognition
+[Book III.](#book-3) Structure of Shadanakar: The Worlds of the Ascending Series
+[Book IV.](#book-4) Structure of Shadanakar: Infra-physics
+[Book V.](#book-5) Structure of Shadanakar: Elementals
+[Book VI.](#book-6) The Higher Worlds of Shadanakar
+[Book VII.](#book-7) Meta-History of Ancient Rus'
+[Book VIII.](#book-8) Meta-History of The Kingdom of Moscow
+[Book IX.](#book-9) Meta-History of The Petersburg Empire
+[Book X.](#book-10) Meta-History of Russian Culture
+[Book XI.](#book-11) Meta-History of The 20th Century
+[Book XII.](#book-12) Possibilities
+
+[Brief dictionary of names, terms, and titles](#dict)
 
 <a id="book-1"></a>
 
