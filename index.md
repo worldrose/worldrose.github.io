@@ -2,20 +2,19 @@
 
 > CC0 1.0 Universal (CC0 1.0) Public Domain Dedication
 
-[Book I.](#book-1) The Rose of the World and Its Place in History
-[Book II.](#book-2) On metahistorical and transphysical methods of cognition
-[Book III.](#book-3) Structure of Shadanakar: The Worlds of the Ascending Series
-[Book IV.](#book-4) Structure of Shadanakar: Infra-physics
-[Book V.](#book-5) Structure of Shadanakar: Elementals
-[Book VI.](#book-6) The Higher Worlds of Shadanakar
-[Book VII.](#book-7) Meta-History of Ancient Rus'
-[Book VIII.](#book-8) Meta-History of The Kingdom of Moscow
-[Book IX.](#book-9) Meta-History of The Petersburg Empire
-[Book X.](#book-10) Meta-History of Russian Culture
-[Book XI.](#book-11) Meta-History of The 20th Century
-[Book XII.](#book-12) Possibilities
-
-[Brief dictionary of names, terms, and titles](#dict)
+- [Book I.](#book-1) The Rose of the World and Its Place in History
+- [Book II.](#book-2) On metahistorical and transphysical methods of cognition
+- [Book III.](#book-3) Structure of Shadanakar: The Worlds of the Ascending Series
+- [Book IV.](#book-4) Structure of Shadanakar: Infra-physics
+- [Book V.](#book-5) Structure of Shadanakar: Elementals
+- [Book VI.](#book-6) The Higher Worlds of Shadanakar
+- [Book VII.](#book-7) Meta-History of Ancient Rus'
+- [Book VIII.](#book-8) Meta-History of The Kingdom of Moscow
+- [Book IX.](#book-9) Meta-History of The Petersburg Empire
+- [Book X.](#book-10) Meta-History of Russian Culture
+- [Book XI.](#book-11) Meta-History of The 20th Century
+- [Book XII.](#book-12) Possibilities
+- [Brief dictionary of names, terms, and titles](#dict)
 
 <a id="book-1"></a>
 
