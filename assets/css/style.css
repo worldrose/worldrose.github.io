@@ -5,10 +5,18 @@ html > body {
   font-size: large;
 }
 
+html > body > .container-lg > h1:first-child::before {
+  content: '';
+}
+
 html > body > .container-lg > h1:first-child > a {
   display: none;
 }
 
-blockquote {
+html > body blockquote {
   font-style: italic;
+}
+
+html > body p {
+  text-align: justify;
 }
