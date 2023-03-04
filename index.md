@@ -14,6 +14,7 @@
 [Book X.](#book-10) Meta-History of Russian Culture
 [Book XI.](#book-11) Meta-History of The 20th Century
 [Book XII.](#book-12) Possibilities
+[Brief dictionary of names, terms, and titles](#dict)
 
 <a id="book-1"></a>
 
@@ -4756,5 +4757,127 @@ However, if Gagtungr, alone amidst the transformed and exultant Shadanakar, fina
     for the sake of rejoicing
     and for co-creation with Him
     in the making of universes and universes.
+
+<a id="dict"></a>
+
+## Brief dictionary of names, terms, and titles
+
+Agga - all types of materiality in our Brafmatura, created or being created by demonic principles. Structurally different from physical materiality and in general from siayra in that the number of primary constituents of Agga is extremely limited, and none of its elementary particles possess free will or animation.
+
+Anticosmos - a conditional designation for the totality of all worlds created by demonic principles and assumed to replace the Divine cosmos. The layers belonging to the anticosmos of our Brafmatura are currently: Shog, Digam, Gashsharva, Sufetkh, and Pit.
+
+Arimoia - a metaproimage currently being created in Zatomis of human culture.
+
+Arunghilta-prana - an impersonal, unconscious, subtle material substance that is diffused throughout Enrof, flowing from body to body and providing the possibility of individual organic existences. The feeling of the presence of arunghilta-prana was the axis of the spiritual life of pre-animistic humanity and was apparently the oldest of revelations.
+
+Astral - here: the second of the subtle material spheres of the monad.
+
+Shelt - the first of the subtle material spheres, created by the monad itself; in the creation of the astral, the great elemental Mother Earth participates. She participates in the creation of the individual astrals of all the beings of Shadanakar - humans, angels, daimons, animals, elementals, demons, and even the Great Hierarchies when the latter descend to the layers where it is necessary. Astral is the highest instrument of shelt. It concentrates the abilities of spiritual sight, hearing, smell, deep memory, flight, communication with beings of other layers, contemplation of cosmic panoramas and perspectives.
+
+Brafmatura - almost every celestial body has a series of different material layers forming a interconnected and interdependent system. Such systems are called Brafmatura, united by the commonality of the processes taking place in their layers. In most of the Brafmatura of our galaxy, the main process uniting their layers is the struggle between Providential and demonic forces. However, there are Brafmatura that have completely fallen under demonic power, and others that have already completely freed themselves from it.
+
+Voglea - the name of the great demon of feminine nature, responsible for the catastrophe that once befell humanity of the Lunar Brafmatura. After a long period of semi-isolation, antagonizing both Providential forces and to some extent Gagtungr, Voglea now joins forces with the efforts of the planetary demon.
+
+Gagtungr - the name of a planetary demon in our Brafmatura. He possesses three faces, like some other beings from the highest hierarchies. The first aspect of Gagtungr is the Great Tormentor Hysturg, the second is the Great Whore Fokerma, and the third is the great executor of the demonic plan Urparp, sometimes called the Principle of Form.
+
+Gawakh - the subtle material emanation of human suffering, emitted by our beings both during life and in the descent after death. Gawakh replenishes the loss of life force for many categories of demonic beings and for Gagtungr himself.
+
+Gashsharva - one of the main layers of the demonic anti-cosmos in Shadanakar; a world with two spatial dimensions and a nesting place for various powerful demonic forces.
+
+Daimons - the highest humanity in Shadanakar, the inhabitants of Sakwala worlds with four spatial coordinates and varying numbers of temporal coordinates. Daimons go through a process of becoming similar to ours, but they started it earlier and accomplish it more successfully. They are connected to our humanity by various threads, some of which will be clarified in the course of the general exposition.
+
+Digam - the dwelling place of Gagtungr, one of the worlds with five spatial and many temporal dimensions.
+
+Dingra - the carriage of Russia.
+
+Drukkarg - the shrine of Russian metaculture.
+
+Duggur - one of the layers of demonic elementals that has special significance for humanity. Beings who incarnate in Duggur replenish their life force with Eifos - emanations of human lust.
+
+Zhrugr - the Russian Witzraor.
+
+Zatomis - the highest layers of all metacultures of humanity, their celestial lands, the support of ethnic forces, and the abode of synclites. Together with the currently created Arimoia - the Zatomis of the Rose of the World - their total number reaches forty-four.
+
+Zventa-Sventana - the great divine Monad, the expression of Eternal Femininity, the Bride of the Planetary Logos, who descended from the spiritual-cosmic heights to the upper layers of Shadanakar about a century and a half ago, and is supposed to take on an enlightened (by no means physical) incarnation in one of humanity's Zatomis. This meta-historical event will be reflected in earthly Enrof as the appearance of the Rose of the World.
+
+Igvs - the main race of anti-humanity, highly intellectual demonic beings, inhabitants of the "backside of the worlds" - Shrastrs.
+
+Hierarchy - in this book is used in two meanings: 1. Hierarchy - meaning a ladder of subordinate ranks, whether in church, military, or administrative structures; 2. Hierarchy (hierarchies) - different categories of supernatural, immaterial, or spiritual beings, such as angelic, demonic, elementals, daimons, and many others.
+
+Iroln - one of the worlds in the five spatial coordinates, the abode of humanity's monads.
+
+Karosses - local manifestations linked to individual nations or super-races of the great elemental Lilith, humanity's spiritual archetype. Karosses lack monads but possess an equivalent of consciousness and will.
+
+Karrokh - a physically dense organic body of certain kinds of demonic beings (such as igv and raruggs), created not from siayra but from aggy.
+
+Kragr - a layer where battles of witzraors occur.
+
+Lilith - the great elemental of humanity, once the spouse of the First Angel, later the creator of the physical bodies of humankind and some other beings. Her own essence was demonized by Gagtung long before the existence of humanity in Enrof.
+
+Metahistory - 1) the totality of processes occurring in the layers of immaterial being that are beyond the scope of science and its methodology, which, existing in other kinds of space and other streams of time, sometimes shine through the process that we perceive as history; 2) a religious doctrine about these processes.
+
+Metacultures - internal sakuals of Shadanakar, representing segmented divisions of its lower levels. Metacultures consist of various layers, but each of them has three essential ones: physical - the place of habitation in Enrof of the corresponding super-race, creating its culture; zatomis - the heavenly country of enlightened souls of this race; shrastr - the demonic underworld opposed to zatomis. In addition, all metacultures include some number of layers of Enlightenment and layers of Retribution. The character of these worlds in each metaculture varies depending on the course of metahistorical processes.
+
+Worldly Salvaterra - a conditional designation for the peak and heart of Shadanakar, its highest sakual, consisting of three worlds: the abode of the Planetary Logos, the abode of the Mother of God, and the abode of Zventy-Sventana.
+
+Monad - here: a primary, indivisible, immortal spiritual unit, born of God or created by Him. The universe consists of an uncountable number of monads and a variety of materialities created by them.
+
+Monsalvat - a place in the Northwest metaculture.
+
+Mudgabr - a place in the Northwest metaculture.
+
+Navna - a divine monad, one of the Great Sisters, the Ideal Cathedral Soul of the Russian metaculture. The name is symbolic.
+
+Heavenly Russia (Holy Rus') - a place in the Russian metaculture, the dwelling of its Synclite.
+
+Nertis - one of the worlds of Enlightenment, a country of radiant rest and blessed peace.
+
+Olirna - the first of the ascending worlds, a country of the deceased, shared by all of humanity, though each metaculture gives it a unique character.
+
+Planetary Logos - the Great Divine Monad, the expression of God the Son, the divine mind of our Brafmatura, the oldest and first of all its monads, who manifested in humanity as Jesus Christ and leads the preparation of our world for the change of eons. Planetary Logos is the leader of all forces of Light in Shadanakar.
+
+Raruggs - the second of the races of anti-humanity, representing creatures who evolved to the stage where ancient geological predators passed through countless incarnations in the layers of demonic materiality.
+
+Lineagers - historical figures who have had a mighty and beneficial influence on the fate of a people or state, guided in their activities by the inspiration of the hierarchies of national leaders.
+
+Rose of the World - the forthcoming all-Christian Church of the last centuries, uniting the churches of the past and linking them on the basis of a free union with all religions of a bright orientation. In this sense, the Rose of the World is inter-religious or pan-religious. Its main task is to save as many human souls as possible and protect them from the danger of spiritual enslavement by the coming anti-god. The emergence of the Rose of the World in humanity will reflect the etheric birth of Zventy-Sventana in one of the places.
+
+Sakwala - here: a system of two or more different material layers closely linked structurally and metahistorically.
+
+Super-people - a group of nations or peoples united by a common, jointly created culture.
+
+Siaira - all types of materiality created or being created by Providential forces.
+
+Synclites - the congregations of enlightened human souls residing in the places of the metacultures.
+
+Skryvnus - the uppermost of the Christian metacultural purgatories, which has its analog in other metacultures of humanity. It is the inevitable post-mortem stage for all souls except those who, after physical death, enter directly into Olirna and then ascend through the stages of the worlds of Enlightenment.
+
+Elementals - a category of god-created monads that undergo their path of becoming in Shadanakar mainly through the kingdoms of Nature, but in most cases, they do not have physical embodiment. Since humanity possesses an aspect of a peculiar natural kingdom, there are various types of elementals associated not with the elements of Nature in the broad sense of the word but with the natural, elemental aspect of humanity.
+
+Witzraors - powerful, intelligent, and extremely predatory creatures that inhabit layers adjacent to the Shrastras. From a human perspective, they are the demons of a great power state. There are very few of them. In meta-history, witzraors play a huge and contradictory role.
+
+Uppum - one of the layers of Vengeance, the "Rain of Eternal Grief," the witzraor's hell.
+
+Shavva - a subtle material emission of some states of the human psyche associated with the "state complex."
+
+Shavva replenishes the loss of life force in witzraors, igvs, and zhrugrs.
+
+Shadanakar - the proper name of the Brafmatura of our planet. It consists of a huge number (over 240) of different material layers, alien spaces, and alien times.
+
+Shelt - the first of the material envelopes of the monad. Shelt is created by the monad itself from the materiality of the five-dimensional spatial worlds. The monad's receptacle together with its divine properties and its closest tool. Not the monad itself, remaining in Iroln, but precisely the shelt that is the "self" that travels through the lower layers for their enlightenment.
+
+Shrastrs - alien spatial material layers associated with some zones in the physical body of the planet Earth, namely with the "compensation protrusions" of the continents, overturned towards the Earth's center. The abode of the anti-humanity consisting of two coexisting races - igvs and zhrugrs. In the shrastras, there are peculiarly huge cities and very high demonic technology.
+
+Egregores - here: immaterial entities that arise from certain psychic emissions of humanity over large collectives: tribes, states, certain parties, and religious communities. They lack monads but possess a temporarily concentrated volitional charge and an equivalent of consciousness.
+
+Yetzerhare - here: the demonic part in every being whose material incarnation occurred with the participation of Lilith, i.e. not only humans but also Titans, Igvas, Raruggs, Witzraors.
+
+Zatomis - the name of our physical layer - a concept equivalent to the modern concept of the astronomical universe. It is characterized by the presence of space with three dimensions and time with one dimension.
+
+Eons - here: world periods characterized by different states of materiality in Zatomis of any Brafmatura. The difference in these states is determined by the degree of manifestation of spiritual potentials in the materiality of Zatomis. This takes into account not individual cases of deviation from norms but the general, dominant state. Thus, during the entry of Shadanakar into the second eon, there will be a transformation of organic matter, and during the entry into the third - also a transformation of inorganic matter. This will take Shadanakar beyond the limits of the world of Zatomis.
+
+Etheric body - the third of the subtle material envelopes of the incarnated monad. Without it, no organic life is possible in the worlds of three and four coordinates.
+
+Yarosvet - a divinely born monad, one of the great demiurges of humanity, the progenitor of the Russian metaculture. The name is chosen arbitrarily.
 
 > Daniil Andreev. July 5, 1958.
