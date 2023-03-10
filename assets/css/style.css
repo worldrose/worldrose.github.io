@@ -5,12 +5,14 @@ html > body {
   font-size: large;
 }
 
+/*
 html > body > .container-lg > h1:first-child::before {
   background: no-repeat center url(/favicon.ico);
   background-size: 1em;
   content: '.....';
   color: transparent;
 }
+*/
 
 html > body > .container-lg > h1:first-child > a {
   display: none;
